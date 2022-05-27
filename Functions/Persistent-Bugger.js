@@ -7,9 +7,7 @@ function persistence(num) {
   if(answerNum.length>1){
     
   for(let i =1;answerNum.length>1;i++){
-  let numArray = answerNum.split('').map(element=>Number(element))
-  let mult = numArray.reduce((curr,acc)=> curr*acc)
-  answerNum = mult.toString()
+  answerNum = answerNum.split('').map(element=>Number(element)).reduce((curr,acc)=> curr*acc).toString()
   if(answerNum.length===1){
     return i
   }
