@@ -6,5 +6,3 @@ This repo is 100% Javascript and covers a broad range of topics.
 
 ## Lessons Learned
 Daily Codewars challenges greatly improved my knowledge of Javascript. Using built in methods and functions everyday resulted aided in the JS syntax to become second nature to me. After hundreds of challenges, and looking at other peoples answers, resulted in my code becoming much more digestable and succinct.
-
-## Examples
