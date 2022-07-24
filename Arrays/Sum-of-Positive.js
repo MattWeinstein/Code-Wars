@@ -1,4 +1,4 @@
-//You get an array of numbers, return the sum of all of the positives ones.
+//You get an array of numbers, return the sum of all of the positives ones.  
 
 function positiveSum(arr) {
   let answer = 0
