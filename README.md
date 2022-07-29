@@ -1,5 +1,5 @@
 # Code-Wars Coding Challenges
-This repository is an accumulation of all the coding challenges I have completed on www.Codewars.com. I have done at least one challenge every day to strengthen my JavaScript ability. Each challenge has the description of the challenge, my solution, and is organized based on the type of problem it was. Feel free to explore.
+This repository is an accumulation of all the coding challenges I have completed on www.Codewars.com. I have done at least one challenge every day to strengthen my JavaScript ability. Each challenge has the description of the challenge, my solution, and is organized based on the type of problem it was. Feel free to explore.  
 
 ## How It's Made
 This repo is 100% Javascript and covers a broad range of coding problems. All problems are from Codewars.com.
